@@ -1,0 +1,9 @@
+.container {
+    border: black solid 1px;
+    text-align: center;
+}
+
+.container img {
+    max-height: 80px;
+    max-width: 80px;
+}
